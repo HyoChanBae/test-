@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
+h2{
+    text-align: center;
+}
+#background{
+    position: absolute;
+    margin:150px 500px;
+    width:450px;
+    height:400px;
+    background-color: gainsboro;
+}
+.container{
+    padding:20px;
+    border: 3px solid gainsboro;
+    width:350px;
+    height:250px;
+    background-color: white;
+}
+#adminlogin button{
+    background-color:rgb(51,128,204) ;
+    border: 1px solid gainsboro ;
+    color:white;
+    padding:5px;
+
+}
+
+input{
+    width:300px;
+    height:25px;
+}
